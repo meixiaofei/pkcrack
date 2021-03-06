@@ -42,6 +42,7 @@
 
 static char RCSID[]="$Id: mktmptbl.c,v 1.9 2002/11/02 15:12:06 lucifer Exp $";
 
+#include <string.h>
 #include <stdio.h>
 #include "mktmptbl.h"
 
